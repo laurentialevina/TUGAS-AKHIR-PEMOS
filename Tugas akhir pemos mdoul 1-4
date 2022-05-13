@@ -30,3 +30,5 @@ ax3.plot(df['time'], df['water_temperature'], color='tab:brown')
 ax3.set_ylabel('Water Temperature [degC]')
 
 plt.show()
+
+![image](https://user-images.githubusercontent.com/105494838/168346766-d0c327ea-578a-4e32-ac6c-deb69888bf39.png)
