@@ -1,6 +1,6 @@
 # TUGAS-AKHIR-PEMOS
 
-Respitori ini dibuat untuk memenuhi Tugas Akhir Praktikum Pemodelan Oseanografi 2022 oleh Kelompok 1 Oseanografi 2020. Respitori ini memuat materi dan persamaan dari modul 1-4, yaitu Persamaan Adveksi-Difusi 1 Dimensi dan 2 Dimensi, serta Model Hidrodinamika 1 Dimensi dan 2 Dimensi. Script yang dibuat dalam respitori ini menggunakan bahasa python menggunakan platform Jupyter Notebook. Library yang digunakan meliputi numpy, matplotlib, serta tambahan data gelombang dari National Buoy Data Center (NDBC) melalui website (https://www.ndbc.noaa.gov/obs.shtml). Seluruh script ini merupakan hasil dari kerja Kelompok 1 Oseanografi 2020.
+Repositori ini dibuat untuk memenuhi Tugas Akhir Praktikum Pemodelan Oseanografi 2022 oleh Kelompok 1 Oseanografi 2020. Repositori ini memuat materi dan persamaan dari modul 1-4, yaitu Persamaan Adveksi-Difusi 1 Dimensi dan 2 Dimensi, serta Model Hidrodinamika 1 Dimensi dan 2 Dimensi. _Script_ yang dibuat dalam respitori ini menggunakan bahasa _python_ menggunakan _platform Jupyter Notebook_. _Library_ yang digunakan meliputi _numpy, matplotlib_, serta tambahan data gelombang dari National Buoy Data Center (NDBC) melalui _website_ (https://www.ndbc.noaa.gov/obs.shtml). Seluruh _script_ ini merupakan hasil dari kerja Kelompok 1 Oseanografi 2020.
 Terima kasih dan semoga bermanfaat!
 
 # ANGGOTA KELOMPOK 1
