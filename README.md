@@ -18,4 +18,4 @@ Terima kasih dan semoga bermanfaat!
 
 7. Priska E. Lumban Batu
 
-8. Laurentia Levina Pramestanti
+8. Laurentia Levina Pramestanti_26050120140126
